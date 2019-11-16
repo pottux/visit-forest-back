@@ -1,0 +1,9 @@
+﻿id;name;length;time;level;coordNorth;coordEast;winter;options
+1;Punarinnankierros;2000;60;1;60.3097;24.5165;false;"""['hike', 'fire', 'cooking', 'tent', 'laavu', 'toilet', 'info', 'water', 'recycle', 'park']"""
+2;Haukankierros;4000;120;3;60.3097;24.5165;false;"""['hike', 'fire', 'cooking', 'tent', 'laavu', 'toilet', 'info', 'water', 'recycle', 'park']"""
+3;Korpinkierros;6000;240;3;60.3097;24.5165;false;"""['hike', 'fire', 'cooking', 'tent', 'laavu', 'toilet', 'info', 'water', 'recycle', 'park']"""
+4;Takalan polku;1500;25;1;60,3273;24,4934;false;"""['hike', 'fire', 'cooking', 'laavu', 'toilet', 'info', 'water', 'recycle', 'park']"""
+5;Kaarniaispolku;2700;60;1;60,2709;24,4601;false;"""['hike', 'park']"""
+6;Sooidinkierros;4000;120;1;60,2794;24,5013;false;"""['hike']"""
+7;Nahkiaispolku;2000;40;2;60,3144;24,5215;false;"""['hike', 'water', 'park']"""
+8;Klassarinkierros;3900;120;2;60,3119;24,4460;false;"""['hike', 'fire', 'park']"""
